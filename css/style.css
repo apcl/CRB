@@ -4589,6 +4589,20 @@ a.custom-tooltip:hover {
   background-image: url("../images/automa.jpg");
   background-repeat: repeat;
 }
+.pattern-dark-wrapper-producto {
+  display: block;
+  width: inherit;
+  height: inherit;
+  background-image: url("../images/producto.jpg");
+  background-repeat: repeat;
+}
+.pattern-dark-wrapper-qs {
+  display: block;
+  width: inherit;
+  height: inherit;
+  background-image: url("../images/quienessomos.jpg");
+  background-repeat: repeat;
+}
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .pattern-dark-wrapper {
     background-image: url("../images/components/pattern-grid-dark2x.png");
@@ -4603,6 +4617,14 @@ a.custom-tooltip:hover {
     background-size: 5px 5px;
   }
   .pattern-dark-wrapper-automa {
+    background-image: url("../images/components/pattern-grid-dark2x.png");
+    background-size: 5px 5px;
+  }
+  .pattern-dark-wrapper-producto {
+    background-image: url("../images/components/pattern-grid-dark2x.png");
+    background-size: 5px 5px;
+  }
+  .pattern-dark-wrapper-qs {
     background-image: url("../images/components/pattern-grid-dark2x.png");
     background-size: 5px 5px;
   }
